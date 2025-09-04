@@ -1,0 +1,5 @@
+path: /Users/moahaimentalib/Documents/python_projects/univers/yolo_out_fits
+train: images/train
+val: images/val
+names:
+  0: comet

@@ -1,0 +1,8 @@
+path: /Users/moahaimentalib/Documents/python_projects/univers/yolo_out_4cls
+train: images/train
+val: images/val
+names:
+  0: transient
+  1: asteroid_sso
+  2: variable_star
+  3: unknown_artifact
